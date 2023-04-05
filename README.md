@@ -1,3 +1,3 @@
-# sandbox
+# on-resume
 
-temporary folder to house things to be migrated to more permanant places
+Notes and descriptions on items on resume
